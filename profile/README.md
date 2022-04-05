@@ -2,7 +2,7 @@
 
 ## What is Student Robotics?
 
-As a UK based charity, Student Robotics challenges teams of 16 to 18 year-olds to design, build and program fully autonomous robots to compete in our annual competition. After we announce the year's game, the teams have just six months to engineer their creations. As well as supplying teams with a kit, which they can use as a framework for their robot, we mentor the teams over this period. Thanks to the generosity of our sponsors, we provide all of this to our teams at no cost.
+As a UK based charity, Student Robotics challenges teams of 16 to 19 year-olds to design, build and program fully autonomous robots to compete in our annual competition. After we announce the year's game, the teams have just six months to engineer their creations. As well as supplying teams with a kit, which they can use as a framework for their robot, we mentor the teams over this period. Thanks to the generosity of our sponsors, we provide all of this to our teams at no cost.
 
 ## How can my company help?
 
